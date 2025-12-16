@@ -38,7 +38,7 @@ Stack: Python · SQL Server · Power BI
 
 ---
 
-🟢 HelpDesk / Ticketing System + Analytics
+### 🟢 HelpDesk / Sistema de tickets + Analitica
 
 Sistema de gestión de tickets de soporte con backend REST y módulo de análisis en tiempo real.
 Stack: Python · Flask · SQL Server · React · Power BI
