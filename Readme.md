@@ -1,7 +1,7 @@
 # 👋 Kevin Alajarin
 
 Backend & Data-Oriented Developer  
-Node.js · SQL Server · Python · Power BI
+Node.js · SQL Server · Python · Power BI - Java - JavaScript - React - HTML - CSS
 
 Estudiante avanzado de Licenciatura en Gestión de la Tecnología de la Información, con enfoque en backend, sistemas empresariales y análisis de datos.
 
