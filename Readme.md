@@ -9,7 +9,7 @@ Estudiante avanzado de Licenciatura en Gestión de la Tecnología de la Informac
 
 ## 🚀 Proyectos Destacados
 
-### 🟢 Enterprise Order Management System
+### 🟢 Sistema de gestion de pedidos
 Sistema empresarial para gestión de pedidos con control de stock y transacciones ACID.  
 **Stack:** Node.js · Express · SQL Server · React · Docker  
 🔗 https://github.com/KevinAlajarin/sistema-gestion-pedidos
@@ -23,20 +23,36 @@ Data Warehouse con modelo estrella y ETL incremental, con dashboards ejecutivos.
 
 ---
 
-### 🟢 Inventory Management System
+### 🟢 Sistema de gestion de inventario
 API REST y frontend React para gestión de inventario con alertas y BI.  
 **Stack:** Node.js · SQL Server · React · Power BI  
 🔗 https://github.com/KevinAlajarin/gestor-inventario
 
 ---
 
-## 🛠 Tech Stack
+### 🟢 Análisis del Mercado Automotor Argentino (ETL & BI)
+
+Pipeline ETL end-to-end para análisis de precios de vehículos usados, con normalización de moneda y dashboards analíticos.
+Stack: Python · SQL Server · Power BI
+🔗 https://github.com/KevinAlajarin/etl-kaggle-autos
+
+---
+
+🟢 HelpDesk / Ticketing System + Analytics
+
+Sistema de gestión de tickets de soporte con backend REST y módulo de análisis en tiempo real.
+Stack: Python · Flask · SQL Server · React · Power BI
+🔗 https://github.com/KevinAlajarin/Gestor-de-tickets
+
+---
+
+## 🛠 Stack Tecnologico
 
 - Backend: Node.js, Express, Python
-- Databases: SQL Server, MongoDB
 - Frontend: React, HTML, CSS, Tailwind
-- Data & BI: ETL, Data Modeling, Power BI
-- Tools: Git, Docker, Postman, Jest
+- Database: SQL Server, MongoDB
+- Datos & BI: ETL, Data Modeling, Power BI
+- Herramientas: Git, Docker, Postman, Jest
 
 ---
 
