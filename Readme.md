@@ -16,7 +16,7 @@ Sistema empresarial para gestión de pedidos con control de stock y transaccione
 
 ---
 
-### 🟢 Retail Sales Data Warehouse & BI
+### 🟢 Almacén de datos de ventas minoristas y BI
 Data Warehouse con modelo estrella y ETL incremental, con dashboards ejecutivos.  
 **Stack:** Python · SQL Server · Power BI  
 🔗 https://github.com/KevinAlajarin/etl_ventas_online_retail
