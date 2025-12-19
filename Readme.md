@@ -9,6 +9,11 @@ Estudiante avanzado de Licenciatura en Gestión de la Tecnología de la Informac
 
 ## 🚀 Proyectos Destacados
 
+### 🟢 Sistema de Gestión Financiero Personal
+Aplicación full-stack para administración de ingresos, gastos, presupuestos, tarjetas y metas de ahorro con dashboards interactivos.  
+**Stack:** Node.js · Express · SQL Server · React · Tailwind · Recharts  
+🔗 https://github.com/KevinAlajarin/sistema-gestion-financiero-personal
+
 ### 🟢 Sistema de gestion de pedidos
 Sistema empresarial para gestión de pedidos con control de stock y transacciones ACID.  
 **Stack:** Node.js · Express · SQL Server · React · Docker  
